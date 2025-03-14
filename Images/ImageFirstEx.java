@@ -1,5 +1,5 @@
 /* 
-date: 
+Anay Goyal
 ImageFirstEx.java
 
 This program shows:
